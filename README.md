@@ -11,4 +11,4 @@ Screenshot
 
 Dependencies
 ------------
-KeyMacro uses [alfred.py](https://github.com/nikipore/alfred-python)
+KeyMacro uses [alfred-python](https://github.com/nikipore/alfred-python)
