@@ -1,3 +1,4 @@
+SHELL=/bin/bash
 TARGET=KeyMacro.alfredworkflow
 
 all:
