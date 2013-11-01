@@ -7,3 +7,8 @@ KeyMacro.alfredworkflow
 Screenshot
 ------------
 ![KeyMacro1.png](screenshot/KeyMacro1.png)
+
+
+Dependencies
+------------
+KeyMacro uses [alfred.py](https://github.com/nikipore/alfred-python)
