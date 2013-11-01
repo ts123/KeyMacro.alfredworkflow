@@ -9,7 +9,7 @@ def main(query):
     uid = uid_generator()
     suggested_items.append(alfred.Item(
         attributes = { 'uid': uid.next(), 'arg': query },
-        title = 'Execute follow commands', subtitle = '', 
+        title = 'Execute following commands', subtitle = '', 
         icon = 'icon.png'))
     for command, script in keymacro.generate_applescripts(query):
         script = script.replace('''tell application "System Events" to ''', '')
